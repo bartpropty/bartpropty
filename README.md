@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @bartpropty
 - 👀 I’m interested in AI and SaaS products
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on startups
 - 📫 How to reach me bart@propty.app
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: I loved no-code, now I hate it.
